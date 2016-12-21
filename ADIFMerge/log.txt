@@ -1,3 +1,0 @@
-Processed files: 4
-Processed records: 840
-Processing time: 00:00:00.0570302

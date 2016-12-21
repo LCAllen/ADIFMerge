@@ -1,4 +1,0 @@
-Log file from ADIFMerge created at: 12/20/2016 10:42:26 PM
-Processed files: 10
-Processed records: 2100
-Processing time: 00:00:00.0953390
